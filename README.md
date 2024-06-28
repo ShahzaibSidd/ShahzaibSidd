@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning front-end dev and C/C++<br>🎯 Goals: Gain internship experience, and learn new technologies</p>
+<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning front-end dev, C/C++ and game dev<br>🎯 Goals: Gain internship experience, and learn new technologies</p>
 
 ###
 
