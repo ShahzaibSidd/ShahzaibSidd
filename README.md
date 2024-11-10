@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm a passionate incoming computer engineering sudent @ UWaterloo :)</p>
+<p align="left">I'm a passionate comp. eng sudent @ UWaterloo 😺😺</p>
 
 ###
 
