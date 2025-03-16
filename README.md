@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning game dev, c# and back-end dev<br>🎯 Goals: Gain internship experience, and learn new technologies!</p>
+<p align="left">📚 I'm currently learning back-end dev and firmware<br>🎯 Goals: Gain internship experience, and learn new technologies!</p>
 
 ###
 
