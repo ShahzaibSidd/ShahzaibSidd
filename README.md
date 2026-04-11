@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning back-end dev and firmware<br>🎯 Goals: Gain internship experience, and learn new technologies!</p>
+<p align="left">Currently trying to learn os dev and firmware dev<br> Goals: Gain internship experience, and learn new cool stuff</p>
 
 
 ###
