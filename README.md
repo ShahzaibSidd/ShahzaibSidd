@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Currently trying to learn os dev and firmware dev<br> Goals: Gain internship experience, and learn new cool stuff</p>
+<p align="left">Currently trying to learn os and firmware dev<br> Goals: Gain internship experience, and learn new cool stuff</p>
 
 
 ###
